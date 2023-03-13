@@ -3,4 +3,6 @@ output
 shutdown_apphosts.py
 bash_script.sh
 output.txt
-device_list.cpython-38.pyc
+__pycache__
+device_list.py
+__main__.log
